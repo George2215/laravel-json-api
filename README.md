@@ -1,0 +1,2 @@
+# laravel-json-api
+jsonapi
